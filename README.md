@@ -16,7 +16,7 @@ This is a feature-rich calculator application built using **Python** and **Tkint
 
 ## 🖼️ Screenshot
 
-![Calculator GUI](screenshot.png)
+![Calculator GUI](Screenshot.png)
 
 ---
 
