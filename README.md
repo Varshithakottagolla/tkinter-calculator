@@ -27,6 +27,6 @@ This is a feature-rich calculator application built using **Python** and **Tkint
    ```bash
    git clone https://github.com/your-username/tkinter-calculator.git
    cd tkinter-calculator
-3.Run the application 
+3. Run the application 
    ```bash
    python calculator.py
